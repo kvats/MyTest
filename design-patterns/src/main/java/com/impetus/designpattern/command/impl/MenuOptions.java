@@ -1,7 +1,6 @@
-package com.impetus.designpattern.behavioural.command.impl;
+package com.impetus.designpattern.command.impl;
 
-import com.impetus.designpattern.behavioural.command.interfaces.ActionListenerCommand;
-
+import com.impetus.designpattern.command.interfaces.ActionListenerCommand;
 
 /**
  * Invoker class:
