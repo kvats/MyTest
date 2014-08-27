@@ -1,11 +1,11 @@
 /**
  * 
  */
-package com.impetus.designpattern.behavioural.command.interfaces;
+package com.impetus.designpattern.command.interfaces;
 
 /**
- Command interface:
+ * Command interface:
  */
 public interface ActionListenerCommand {
-	public void execute();
+    public void execute();
 }
